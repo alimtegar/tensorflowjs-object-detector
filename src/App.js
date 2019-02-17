@@ -142,9 +142,10 @@ class App extends Component {
                         Loading model...
                     </div>
                 )}
-            </div>
-        );
-    }
+		<div id="footer">&copy; FourOhFour 2019</div>
+	</div>
+        )
+	}
 }
 
 export default App;
